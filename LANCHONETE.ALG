@@ -10,6 +10,7 @@ Var
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
-
+//Instruções para a Lanchonete 09/08
+//Instruções branch
 
 Fimalgoritmo
