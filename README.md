@@ -3,4 +3,4 @@
 ### *Curso Técnico DS*
 #### **Rio Claro**
 ![](https://img.freepik.com/vetores-premium/icone-de-construcao-de-restaurante-de-hamburguer-isometrico-ilustracao-de-icone-3d-vector-design-plano-de-referencia-isolado_679085-69.jpg?semt=ais_hybrid)
-![Versão](https://img.shields.io/github/v/release/)
+![Versão](1)
