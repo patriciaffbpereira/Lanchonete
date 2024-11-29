@@ -1,8 +1,8 @@
 
 # Índice 
 
-* [Título e Imagem de capa](#Conteúdo)
-* [Badges](#Rio Claro)
+* [Conteúdo](#Conteúdo)
+* [Status](#Status)
 
 
 
@@ -16,6 +16,8 @@
 ## <h1 align="center">Algoritmo criado no VisualG</h1>
 ### *Curso Técnico DS*
 #### **Rio Claro**
+
+## Status
 <p align="center">
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
