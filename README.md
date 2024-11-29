@@ -6,7 +6,7 @@
 
 
 
-![Restaurante](https://img.freepik.com/vetores-gratis/restaurante-italiano-em-design-plano_23-2147560162.jpg?semt=ais_hybrid)
+![Restaurante](https://img.freepik.com/vetores-gratis/restaurante-italiano-em-design-plano_23-2147560162.jpg?semt=ais_hybrid width="200" height="100" )
 
 
 
