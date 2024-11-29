@@ -1,2 +1,2 @@
 # Lanchonete
-<h1>Algoritmo para Lanchonete</h1>
+<h1 align="center">Algoritmo para Lanchonete</h1>
