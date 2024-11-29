@@ -6,8 +6,8 @@
 
 
 
-![Restaurante](https://img.freepik.com/vetores-gratis/restaurante-italiano-em-design-plano_23-2147560162.jpg?semt=ais_hybrid)
-<img src="https://img.freepik.com/vetores-gratis/restaurante-italiano-em-design-plano_23-2147560162.jpg?semt=ais_hybrid" alt="Restaurante" width="300" height="200" />
+![Restaurante](https://img.freepik.com/vetores-gratis/restaurante-italiano-em-design-plano_23-2147560162.jpg?semt=ais_hybrid) <!-- Imagem original  MarkDown-->
+<img src="https://img.freepik.com/vetores-gratis/restaurante-italiano-em-design-plano_23-2147560162.jpg?semt=ais_hybrid" alt="Restaurante" width="300" height="200" /> <!--Imagem redimensionada HTML -->
 
 <!-- Este comentário não aparecerá na renderização do README -->
 
