@@ -1,8 +1,8 @@
 
 # Índice 
 
-* [Título e Imagem de capa](#Algoritmo)
-* [Badges](#Rio)
+* [Título e Imagem de capa](#Algoritmo para Lanchonete)
+* [Badges](#Rio Claro)
 
 
 
