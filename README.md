@@ -1,3 +1,2 @@
-#
-<h1 align="center">Algoritmo para Lanchonete</h1>
+# Algoritmo para Lanchonete
  ## Algoritmo criado no VisualG
