@@ -5,7 +5,7 @@
 ![](https://img.freepik.com/vetores-premium/icone-de-construcao-de-restaurante-de-hamburguer-isometrico-ilustracao-de-icone-3d-vector-design-plano-de-referencia-isolado_679085-69.jpg?semt=ais_hybrid)
 
 
-![Versão](https://img.shields.io/github/v/release/patriciaffbpereira/Lanchonete/v1.0.0)
+
 
 
 
